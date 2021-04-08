@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "asn1js": "latest",
-    "bytestreamjs": "latest",
+    "bytestreamjs": "1.1.1",
     "pvutils": "latest"
   },
   "engines": {
